@@ -4,11 +4,12 @@
 ![Solana](https://img.shields.io/badge/Solana-362783?style=flat&logo=solana&logoColor=white)
 ![Version](https://img.shields.io/badge/version-1.2.0-blue)
 
-**PumpSwap Volume Bot** is a high-performance tool designed to **generate trading volume on PumpSwap**, with full support for Raydium's CPMM and OpenBook as well. Whether you're launching a new token or increasing your market visibility, this bot makes it easy to create realistic and sustainable **PumpSwap volume** through automated buy and sell transactions.
+**PumpSwap Volume Bot** is a high-performance tool designed to **generate trading volume on PumpSwap and PumpFun**, with full support for Raydium's CPMM and OpenBook as well. Whether you're launching a new token or increasing your market visibility, this bot makes it easy to create realistic and sustainable **PumpSwap volume** through automated buy and sell transactions.
 
 Join our community at: https://discord.gg/solana-scripts
 
 or just DM me directly: https://t.me/benorizz0
+
 
 
 TEST IT for FREE at [solana-volume.com](https://solana-volume.com)
